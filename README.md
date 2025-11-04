@@ -42,7 +42,7 @@ Short Video Automation is a tool that simplifies the process of creating short v
 Clone the repository:
 
 ```bash
-https://github.com/ChetanXpro/short-video-automation.git
+https://github.com/loger9852/video-automation-project.git
 cd short-video-automation
 ```
 
